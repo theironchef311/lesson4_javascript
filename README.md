@@ -3,23 +3,22 @@
 ### Course Title:
 Web Application Development
 
-### Assignment Date:  
-(Month Day, Year)
+### Assignment Due Date:  
+(Oct 19, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Richard Morrow)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we created a expenses calculator that adds up your expenses and then tells you what percentage of your total expenses you spent on each expense. )
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://theironchef311.github.io/lesson4_javascript/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (.getElementByID())
+2. (If var isn't used when declaring a variable then it automatically is considered a global variable.)
+3. (The onclick method in html is pretty interesting.)
 
 
 
